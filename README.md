@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PitMap - AI-powered Pothole Detection System**
 
-- 🌱 I’m currently learning **MERN Stack, Backend Development, DSA in Java**
+- 🌱 I’m currently learning **MERN Stack, Backend Development, DSA in C++**
 
 - 👯 I’m looking to collaborate on [Open-source MERN Stack Projects](//github.com/KhushiYadav-26)
 
